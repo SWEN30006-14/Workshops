@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-11T23:57:46.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="_1llLnCI0me4KJfYV5UU" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-12T00:00:37.778Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="Cd9-4qGAp2TGGw9NSJlx" version="20.2.3" type="github">
   <diagram id="ZRupTK8vs-YXc7_zND_B" name="Page-1">
     <mxGraphModel dx="1163" dy="349" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -22,8 +22,8 @@
         <mxCell id="2UmxWIpTpZnCIBJGYqUd-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="2UmxWIpTpZnCIBJGYqUd-2" target="2UmxWIpTpZnCIBJGYqUd-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2UmxWIpTpZnCIBJGYqUd-2" value="Assessment&lt;br&gt;&lt;hr style=&quot;text-align: left;&quot;&gt;Name&lt;br&gt;Due Date&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="250" width="120" height="60" as="geometry" />
+        <mxCell id="2UmxWIpTpZnCIBJGYqUd-2" value="Assessment&lt;br&gt;&lt;hr style=&quot;text-align: left;&quot;&gt;AssessmentID&lt;br&gt;Instructions&lt;br&gt;Upload&lt;br&gt;Due Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="10" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2UmxWIpTpZnCIBJGYqUd-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="2UmxWIpTpZnCIBJGYqUd-3" target="2UmxWIpTpZnCIBJGYqUd-1">
           <mxGeometry relative="1" as="geometry" />
@@ -73,7 +73,7 @@
           <mxGeometry x="130" y="240" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2UmxWIpTpZnCIBJGYqUd-24" value="1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="111" y="280" width="60" height="30" as="geometry" />
+          <mxGeometry x="111" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2UmxWIpTpZnCIBJGYqUd-25" value="1..*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="280" width="60" height="30" as="geometry" />
@@ -92,6 +92,9 @@
         </mxCell>
         <mxCell id="2UmxWIpTpZnCIBJGYqUd-30" value="Teach" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2UmxWIpTpZnCIBJGYqUd-32" value="Upload&lt;br&gt;&lt;hr style=&quot;text-align: left;&quot;&gt;AssessmentID&lt;br&gt;StudentID&lt;br&gt;File&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="111" y="350" width="120" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
