@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T23:29:11.461Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="uhTcrXg-f8oYaGgWy5mv" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-18T23:29:34.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7Z3e6AKS3QJ1c5hpJN0A" version="20.2.3" type="github">
   <diagram id="ZRupTK8vs-YXc7_zND_B" name="Page-1">
     <mxGraphModel dx="1609" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -249,13 +249,13 @@
         <mxCell id="HkgX5lBla5T3OF_uM4Xi-3" value="Instructor&lt;br&gt;&lt;hr&gt;InstructorID&lt;br&gt;Name&lt;br&gt;Address&lt;br&gt;&lt;hr&gt;getInstructorID(): String&lt;br&gt;getname(): String&lt;br&gt;getAddress(): String" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="20" y="439" width="120" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="HkgX5lBla5T3OF_uM4Xi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;verticalAlign=middle;endArrow=none;endFill=0;" edge="1" parent="1" source="HkgX5lBla5T3OF_uM4Xi-5" target="HkgX5lBla5T3OF_uM4Xi-7">
+        <mxCell id="HkgX5lBla5T3OF_uM4Xi-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;verticalAlign=middle;endArrow=block;endFill=1;" edge="1" parent="1" source="HkgX5lBla5T3OF_uM4Xi-5" target="HkgX5lBla5T3OF_uM4Xi-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HkgX5lBla5T3OF_uM4Xi-5" value="Subject&lt;br&gt;&lt;hr&gt;SubjectID&lt;br&gt;&lt;hr&gt;getSubjectID(): String&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22Instructor%22%20style%3D%22rounded%3D0%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2230%22%20y%3D%2290%22%20width%3D%22120%22%20height%3D%2260%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="640" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="HkgX5lBla5T3OF_uM4Xi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="HkgX5lBla5T3OF_uM4Xi-7" target="HkgX5lBla5T3OF_uM4Xi-18">
+        <mxCell id="HkgX5lBla5T3OF_uM4Xi-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="HkgX5lBla5T3OF_uM4Xi-18" target="HkgX5lBla5T3OF_uM4Xi-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HkgX5lBla5T3OF_uM4Xi-7" value="Assessment&lt;br&gt;&lt;hr style=&quot;text-align: left;&quot;&gt;AssessmentID&lt;br&gt;Instructions&lt;br&gt;Upload&lt;br&gt;Due Date" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
