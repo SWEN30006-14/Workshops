@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-18T23:29:34.311Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="7Z3e6AKS3QJ1c5hpJN0A" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-18T23:30:04.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="IUF2cm2b-plxfNY_2tGN" version="20.2.3" type="github">
   <diagram id="ZRupTK8vs-YXc7_zND_B" name="Page-1">
     <mxGraphModel dx="1609" dy="475" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -272,7 +272,7 @@
             <mxPoint x="330" y="610" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HkgX5lBla5T3OF_uM4Xi-10" value="Student&lt;br&gt;&lt;hr&gt;StudentID&lt;br&gt;Name&lt;br&gt;Address&lt;br&gt;&lt;hr&gt;getStudentID(): String&lt;br&gt;getName(): String&lt;br&gt;getAddress(): String" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="HkgX5lBla5T3OF_uM4Xi-10" value="Student&lt;br&gt;&lt;hr&gt;- studentID: String&lt;br&gt;&amp;nbsp;- name: String&lt;br&gt;- address: String&lt;br&gt;&lt;hr&gt;getStudentID(): String&lt;br&gt;getName(): String&lt;br&gt;getAddress(): String" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="430" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="HkgX5lBla5T3OF_uM4Xi-11" value="1..*" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
