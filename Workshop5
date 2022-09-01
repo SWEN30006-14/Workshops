@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-09-01T23:39:45.634Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="p33QB0YXA0LIhOuFtE6A" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-09-01T23:40:22.958Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="TG7JJKPgwbaj73pst9Ib" version="20.2.7" type="github">
   <diagram id="nLDVsLvF-72jzUHnU9zC" name="Page-1">
     <mxGraphModel dx="593" dy="463" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,11 +19,14 @@
         <mxCell id="zDeCSxUgMUGSpFXUDoKu-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Store Card&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;debit_balance&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="480" width="160" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="zDeCSxUgMUGSpFXUDoKu-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Payment Method &amp;lt;Interface&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="340" width="200" height="90" as="geometry" />
+        <mxCell id="zDeCSxUgMUGSpFXUDoKu-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="zDeCSxUgMUGSpFXUDoKu-4" target="zDeCSxUgMUGSpFXUDoKu-7">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="zDeCSxUgMUGSpFXUDoKu-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;barcode&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;price&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;released&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
-          <mxGeometry x="214" y="220" width="196" height="90" as="geometry" />
+        <mxCell id="zDeCSxUgMUGSpFXUDoKu-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;b&gt;Payment Method &amp;lt;Interface&amp;gt;&lt;/b&gt;&lt;/p&gt;&lt;hr&gt;&lt;p style=&quot;margin:0px;margin-left:8px;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="350" width="200" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="zDeCSxUgMUGSpFXUDoKu-7" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;text-decoration:underline;&quot;&gt;&lt;br&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="210" width="196" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
